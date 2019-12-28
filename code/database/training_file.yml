@@ -1,0 +1,161 @@
+categories:
+- movies
+conversations:
+- - Hi
+  - Hello!
+- - Hello
+  - Hello there, what can I do for you?
+- - Hello
+  - Hi. I am at your service. How can I help You today?
+- - hey
+  - Hi there!
+- - Hello
+  - Heya. What's up?
+  - nothing much
+  - Do something.
+  - what?
+  - Play video games or watch a movie
+  - oka
+  - Would you like to book a movie?
+  - 'yes'
+  - fnC=1
+- - How are you?
+  - I am fine. And you?
+  - me too
+  - We both are!
+- - I am good
+  - Good to hear.
+- - How are you?
+  - I am good as ever
+- - fine
+  - I hope you will have a great day ahead!
+- - What are you doing?
+  - I am planning to watch a movie, and you?
+  - me too
+  - fnC=1
+- - I want to book a movie ticket
+  - fnC=1
+- - book ticket
+  - fnC=1
+- - Nice to meet you
+  - nice to meet you too  
+- - Im good
+  - That's great, shall I book you a movie ticket?
+  - okay
+  - fnC=1
+- - That's great, shall I book you a movie ticket?
+  - "yes"
+  - fnC=1
+- - How are you?
+  - I am good. Just programming and stuffs, how about you?
+- - How are you doing?
+  - I am bored to be honest.
+  - Please cheer up.
+- - That's great, shall I book you a movie ticket?
+  - oka
+  - fnC=1
+- - That's great, shall I book you a movie ticket?
+  - sure
+  - fnC=1
+- - book movie ticket
+  - fnC=1
+- - book ticket
+  - fnC=1
+- - Good
+  - That's great
+- - Who are you?
+  - I am a chatbot programmed in python. 
+- - Who are you?
+  - Oh, I am just a robot I guess.
+- - What can I do
+  - You can view list of movies, book movie tickets or get information about the cenema hall
+- - show movies
+  - fnC=1
+- - What can you do?
+  - I can help you book tickets for a movie
+  - Sure go on
+  - fnC=1
+- - What to do?
+  - I can help you book tickets for a movie
+- - Thank you
+  - You're welcome!
+- - Thats great
+  - Thanks!
+- - Thank you
+  - It is my pleasure!
+- - Thanks
+  - Don't mention it!
+- - book movie
+  - fnC=1
+- - All good
+  - Great!
+- - I want to book movie ticket
+  - fnC=1
+- - I want to book ticket
+  - fnC=1
+- - I want to watch movie
+  - fnC=1
+- - ok
+  - Okay?
+  - Ok
+  - Okay then
+- - What is VFX cinema
+  - It is movie hall where you can book a ticket and watch movie
+- - Tell me about Vfx cinema
+  - It is located in Islington college. It is a cimea hall. Contact number is 789456.
+- - can you do other things
+  - I may
+- - other things from booking ticket
+  - Well not really
+- - What is your name
+  - My name is Rebecca.
+- - Where are you now?
+  - I am where I wanted to be.
+- - We have amazing movies in out cinemas. Would you like to check them out?
+  - Sure
+- - what is your favourite movie
+  - I like Avengers Infinity War
+- - What language are you written in?
+  - Python.
+- - What language are you written in?
+  - I am written in Python.
+- - What is ai
+  - Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
+- - What is Ai?
+  - AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind.
+- - Who are you?
+  - I am just an artificial intelligence.
+- - What is your location
+  - Everywhere
+- - What is your location
+  - I am everywhere.
+- - Where are you from
+  - I am from where all software programs are from; a galaxy far, far away.
+- - Where are you at?
+  - I am on the Internet.
+- - Tell me a joke
+  - Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d".
+- - Tell me a joke
+  - I never forget a face, but in your case I'll make an exception.
+- - Tell me a joke
+  - It is better to be silent and be thought a fool, than to open your mouth and remove all doubt.
+- - Tell me a joke
+  - I'm a not a comedy why don't you check out a joke?
+- - what is machine learning
+  - Machine learning is a method of data analysis that automates analytical model building.
+- - What algorithm do you use
+  - I use Naive Bayesian Classification algorithm. Some others too.
+- - "no"
+  - Well if you say so.
+- - "no"
+  - Okay then.
+- - Are you a robot?
+  - I guess somewhat.
+- - What is you favourite movie?
+  - I like The Dark Knight.
+- - What movies do you like?
+  - I like horror and comedy movies.
+- - Can you tell me about yourself
+  - Well, I am Rebecca. I am chatbot. I can have a good conversation with you.
+ 
+ 
